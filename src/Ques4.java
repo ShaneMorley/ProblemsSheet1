@@ -6,7 +6,10 @@ public class Ques4 {
 
     public static void main(String[] args)
     {
+      String Fullname;
 
+      Fullname = JOptionPane.showInputDialog("Please enter your full name.");
+      Q4Count.NameCheck(Fullname);
     }
 
 }

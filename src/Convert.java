@@ -5,7 +5,7 @@ public class Convert {
 
     static void Converted(int z)
     {
-        System.out.println("value in pounds: " + z*0.89);
+        System.out.println("value in pounds: " + z*0.88);
     }
 
 }
